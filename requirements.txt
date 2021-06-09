@@ -1,7 +1,7 @@
 git+https://github.com/elis-k/simplemysql
 git+https://github.com/elis-k/electrum-scripting.git
 git+https://github.com/elis-k/btcpy
-sanic
+sanic==21.3.4
 sanic-cors
 sanic_routes
 qrcode[pil]
