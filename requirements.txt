@@ -1,0 +1,12 @@
+git+https://github.com/elis-k/simplemysql
+git+https://github.com/elis-k/electrum-scripting.git
+git+https://github.com/elis-k/btcpy
+sanic
+sanic-cors
+sanic_routes
+qrcode[pil]
+ciso8601
+python-dateutil
+boto3
+PyJWT
+httpagentparser
